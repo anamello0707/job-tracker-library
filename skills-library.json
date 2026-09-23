@@ -1,0 +1,703 @@
+{
+  "about": "Job Tracker skills library. The gap analysis compares job ads and CVs on these concepts. category: skill | work | industry. name: shown in the app (English). terms: lower-case words in English and Norwegian; they also match longer words that start with them (\"kraft\" finds \"kraftsektoren\"). Add \"$\" at the end of a term to match the whole word only (\"power$\" does not match \"powerful\").",
+  "concepts": [
+    {
+      "category": "skill",
+      "name": "Project management",
+      "terms": [
+        "project management",
+        "project manager",
+        "project lead",
+        "prosjektledelse",
+        "prosjektleder",
+        "prosjektstyring"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Programme management",
+      "terms": [
+        "programme management",
+        "program management",
+        "programme manager",
+        "program manager",
+        "programleder",
+        "programledelse",
+        "programstyring"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Portfolio management",
+      "terms": [
+        "portfolio management",
+        "portfolio",
+        "porteføljestyring",
+        "portefølje"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "PMO",
+      "terms": [
+        "pmo$",
+        "project management office",
+        "prosjektkontor"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Change management",
+      "terms": [
+        "change management",
+        "endringsledelse",
+        "organisational change",
+        "organizational change",
+        "organisasjonsendring",
+        "organisasjonsutvikling",
+        "organisational development",
+        "organizational development"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Stakeholder management",
+      "terms": [
+        "stakeholder",
+        "interessent"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Strategy development",
+      "terms": [
+        "strategy",
+        "strategic",
+        "strategi",
+        "strategisk"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Business development",
+      "terms": [
+        "business development",
+        "forretningsutvikling",
+        "new business opportunities",
+        "forretningsmuligheter"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Benefits realisation",
+      "terms": [
+        "benefits realisation",
+        "benefits realization",
+        "benefit realisation",
+        "benefit realization",
+        "gevinstrealisering"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Process improvement",
+      "terms": [
+        "process improvement",
+        "prosessforbedring",
+        "continuous improvement",
+        "kontinuerlig forbedring",
+        "lean$",
+        "efficiency",
+        "effektivisering",
+        "operational excellence"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Operating models",
+      "terms": [
+        "operating model",
+        "operativ modell",
+        "operative modeller",
+        "driftsmodell"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Data governance",
+      "terms": [
+        "data governance",
+        "datastyring",
+        "data management",
+        "dataforvaltning",
+        "master data",
+        "masterdata",
+        "data quality",
+        "datakvalitet",
+        "data ownership",
+        "dataeierskap"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Data & analytics",
+      "terms": [
+        "analytics",
+        "business intelligence",
+        "power bi",
+        "dashboard",
+        "data-driven",
+        "data driven",
+        "datadrevet",
+        "dataanalyse",
+        "data analysis"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Digitalisation",
+      "terms": [
+        "digitalisation",
+        "digitalization",
+        "digital transformation",
+        "digitalisering",
+        "digital omstilling"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Agile methods",
+      "terms": [
+        "agile",
+        "smidig",
+        "scrum",
+        "kanban"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Risk management",
+      "terms": [
+        "risk management",
+        "risikostyring",
+        "risikohåndtering",
+        "risk assessment",
+        "risikovurdering"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Governance & reporting",
+      "terms": [
+        "governance",
+        "reporting",
+        "rapportering",
+        "steering committee",
+        "styringsgruppe",
+        "kpi"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Budget & cost control",
+      "terms": [
+        "budget",
+        "budsjett",
+        "cost control",
+        "kostnadskontroll",
+        "financial management",
+        "økonomistyring",
+        "forecast",
+        "prognose"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Procurement & contracts",
+      "terms": [
+        "procurement",
+        "innkjøp",
+        "anskaffelse",
+        "contract management",
+        "kontraktsoppfølging",
+        "kontraktsstyring",
+        "supplier management",
+        "leverandørstyring",
+        "leverandøroppfølging"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Product management",
+      "terms": [
+        "product management",
+        "product manager",
+        "produktledelse",
+        "produktleder",
+        "product owner",
+        "produkteier",
+        "product roadmap",
+        "produktstrategi",
+        "product strategy"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Leadership",
+      "terms": [
+        "leadership",
+        "lederegenskaper",
+        "people management",
+        "personalansvar",
+        "team lead",
+        "managing teams",
+        "lede team",
+        "motivate",
+        "motivere"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Communication",
+      "terms": [
+        "communication",
+        "kommunikasjon",
+        "presentation",
+        "presentasjon"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Training & enablement",
+      "terms": [
+        "training",
+        "opplæring",
+        "capability building",
+        "kapabilitetsbygging",
+        "kompetansebygging"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Business analysis & requirements",
+      "terms": [
+        "business analysis",
+        "forretningsanalyse",
+        "requirements",
+        "kravspesifikasjon",
+        "kravarbeid",
+        "kravhåndtering"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "ERP / SAP",
+      "terms": [
+        "sap$",
+        "erp$",
+        "s/4hana"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Commercial & sales",
+      "terms": [
+        "commercial",
+        "kommersiell",
+        "sales",
+        "salg$",
+        "tender",
+        "anbud",
+        "bid management"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Problem solving & analysis",
+      "terms": [
+        "problem solving",
+        "problemløsning",
+        "analytical",
+        "analytisk",
+        "analytiske"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Sustainability & ESG",
+      "terms": [
+        "sustainability",
+        "bærekraft",
+        "esg$",
+        "decarbonisation",
+        "decarbonization",
+        "dekarbonisering",
+        "emission",
+        "utslipp"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Regulatory & compliance",
+      "terms": [
+        "compliance",
+        "regulatory",
+        "regulatorisk",
+        "etterlevelse",
+        "regelverk"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Supply chain & logistics",
+      "terms": [
+        "supply chain",
+        "forsyningskjede",
+        "logistics",
+        "logistikk"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Cross-functional collaboration",
+      "terms": [
+        "cross-functional",
+        "cross functional",
+        "tverrfaglig",
+        "på tvers"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Customer relationships",
+      "terms": [
+        "client relationship",
+        "customer relationship",
+        "kunderelasjon",
+        "kundeforhold",
+        "key account"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "AI & new technology",
+      "terms": [
+        "artificial intelligence",
+        "kunstig intelligens",
+        "machine learning",
+        "maskinlæring",
+        "generative ai"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Engineering & design",
+      "terms": [
+        "engineering",
+        "ingeniør",
+        "prosjektering",
+        "dimensjonering",
+        "statikk",
+        "statiske beregninger"
+      ]
+    },
+    {
+      "category": "skill",
+      "name": "Energy transition",
+      "terms": [
+        "energy transition",
+        "energiomstilling",
+        "green transition",
+        "grønn omstilling"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Consulting & advisory",
+      "terms": [
+        "consulting",
+        "consultant",
+        "konsulent",
+        "advisory",
+        "rådgivning",
+        "rådgiver",
+        "sparringspartner",
+        "trusted advisor"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Management role",
+      "terms": [
+        "head of",
+        "director",
+        "direktør",
+        "leder$",
+        "leder for",
+        "line manager",
+        "linjeleder",
+        "avdelingsleder"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Transformation & change",
+      "terms": [
+        "transformation",
+        "transformasjon",
+        "omstilling",
+        "restructuring",
+        "restrukturering"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Strategy & planning",
+      "terms": [
+        "strategic planning",
+        "strategisk planlegging",
+        "strategy and planning",
+        "corporate strategy",
+        "konsernstrategi"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Project & programme delivery",
+      "terms": [
+        "delivery",
+        "leveranse",
+        "implementation",
+        "implementering",
+        "gjennomføring",
+        "execution"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Operations",
+      "terms": [
+        "operations",
+        "drift$",
+        "driften",
+        "operational",
+        "operasjonell",
+        "operasjonelle"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Analysis & reporting",
+      "terms": [
+        "analyst",
+        "analytiker",
+        "analysis",
+        "analyse$"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "Product development",
+      "terms": [
+        "product development",
+        "produktutvikling",
+        "saas",
+        "software development",
+        "systemutvikling"
+      ]
+    },
+    {
+      "category": "work",
+      "name": "IT & digital projects",
+      "terms": [
+        "it project",
+        "it-prosjekt",
+        "it prosjekt",
+        "system implementation",
+        "systemimplementering",
+        "digital project"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Energy & utilities",
+      "terms": [
+        "energy",
+        "energi",
+        "power$",
+        "power sector",
+        "power companies",
+        "kraft",
+        "utilities",
+        "utility",
+        "electricity",
+        "elektrisitet",
+        "strøm",
+        "grid",
+        "strømnett",
+        "hydropower",
+        "vannkraft",
+        "transmission system"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Oil & gas",
+      "terms": [
+        "oil and gas",
+        "oil & gas",
+        "olje",
+        "petroleum",
+        "offshore",
+        "upstream",
+        "subsea",
+        "gas$",
+        "gass$"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Renewables",
+      "terms": [
+        "renewable",
+        "fornybar",
+        "wind power",
+        "wind farm",
+        "vindkraft",
+        "solar",
+        "solkraft",
+        "hydrogen"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Shipping & maritime",
+      "terms": [
+        "shipping",
+        "maritime",
+        "maritim",
+        "vessel",
+        "fartøy",
+        "rederi",
+        "ro-ro",
+        "ship$",
+        "fleet",
+        "flåte"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Metals & manufacturing",
+      "terms": [
+        "aluminium",
+        "aluminum",
+        "metals",
+        "metall",
+        "manufacturing",
+        "industrial",
+        "industriell",
+        "smelter",
+        "verk$"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Chemicals & fertilisers",
+      "terms": [
+        "fertiliser",
+        "fertilizer",
+        "gjødsel",
+        "chemical",
+        "kjemisk",
+        "ammonia",
+        "ammoniakk",
+        "crop nutrition"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Construction & real estate",
+      "terms": [
+        "construction",
+        "bygg og anlegg",
+        "byggebransjen",
+        "real estate",
+        "eiendom",
+        "infrastructure",
+        "infrastruktur",
+        "stålkonstruksjon"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Software & technology",
+      "terms": [
+        "software",
+        "programvare",
+        "saas",
+        "tech company",
+        "teknologiselskap",
+        "technology company",
+        "startup",
+        "scale-up"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Finance & insurance",
+      "terms": [
+        "banking",
+        "bank$",
+        "finance",
+        "finans",
+        "insurance",
+        "forsikring",
+        "fintech"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Public sector",
+      "terms": [
+        "public sector",
+        "offentlig sektor",
+        "government",
+        "municipality",
+        "kommune",
+        "statlig",
+        "direktorat"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Telecom",
+      "terms": [
+        "telecom",
+        "telekom",
+        "telecommunications"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Healthcare & pharma",
+      "terms": [
+        "healthcare",
+        "helse",
+        "hospital",
+        "sykehus",
+        "pharma",
+        "legemiddel"
+      ]
+    },
+    {
+      "category": "industry",
+      "name": "Consulting industry",
+      "terms": [
+        "management consulting",
+        "consulting firm",
+        "konsulentbransjen",
+        "konsulentselskap"
+      ]
+    }
+  ]
+}
